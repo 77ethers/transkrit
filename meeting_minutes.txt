@@ -1,0 +1,29 @@
+Abstract Summary
+The speaker discusses a farming technology that uses satellite data to monitor crop yield and stress levels. The system has 1395 members and covers 4916 acres, focusing on major crops like paddy, beet, maize, and soybean. The ideal yield for paddy is 80.4 metric, but the current yield is 73.51 metric. The ideal yield calculation is based on satellite data and historical data from 2014 onwards. The system can identify whether a farm is a 'golden' or 'nickel' farm based on its performance. The system has been validated with 90% accuracy in yield monitoring prediction. The speaker also discusses how to add a farm to the system, which involves inputting the farmer's information and the system automatically mapping the plot using satellite data. The accuracy of the plot mapping is above 95%. The system can also identify when plants start to grow and what type of crop it is.
+
+Key Points
+1. The speaker has 1395 members and 4916 acres registered in Rachakti FTO, where major crops like paddy, beet, mesh, and soybean are grown.
+2. The ideal yield for paddy should be 80.4 metric, but it is currently 73.51 metric, indicating some loss.
+3. The ideal yield calculation is based on data given to other corporates and is based on satellite data.
+4. The speaker uses satellite data from 2014 onwards to understand cropping patterns, stress levels throughout the season, and years for a particular farm area.
+5. The speaker has tied up with corporates like ITC and Aditya Birla to validate their yield calculation and monitoring prediction, which has an accuracy of 90%.
+6. The speaker uses an 'add farmer' button to add a farmer's information and location, which then uses an API for semantic segmentation to automatically map the plot based on satellite data.
+7. The accuracy of the plot mapping is above 95% if only the API is used, which is sufficient for a satellite view.
+8. The speaker also has a team that manually draws the plot boundaries for more accuracy, especially in the case of larger plots.
+9. The speaker has a client in Andhra Pradesh with 35,000 plots, for which they ran their algorithm to map all the plots.
+10. The speaker can also identify the type of crop that is growing in a plot.
+
+Action Items
+The conversation is in Hindi and seems to be about farming, crop yield, and satellite data. Here are the action items identified:
+
+1. The speaker needs to understand how the ideal yield is calculated.
+2. The speaker needs to validate the yield number on the ground.
+3. The speaker needs to add a farmer using the "add farmer" button and input the farmer's information.
+4. The speaker needs to save the location in the Prakshet APIs for automatic plot mapping.
+5. The speaker needs to check the accuracy of the plot.
+6. The speaker needs to run their algorithm for mapping multiple plots.
+7. The speaker needs to identify the type of crop as it starts to grow.
+
+Sentiment
+The sentiment of the text is neutral. The text appears to be a detailed discussion or explanation about farming, crop yield, satellite data, and data analysis. The speaker is providing information about their farming practices, the use of technology in farming, and how they calculate and predict crop yields. There are no explicit positive or negative emotions or opinions expressed in the text. The tone is informative and factual, which contributes to the neutral sentiment.
+
